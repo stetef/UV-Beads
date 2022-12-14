@@ -3,7 +3,7 @@ This activity covers concepts such as the elctromagnetic spectrum and how light 
 <br/><br/>
 <img src="Figures/uv_beads.jpg" width="300" >
 
-### Goal: To demonstrate how different nanoscale properties can impact a macroscale properties (such as color).
+### Goal: To demonstrate how different nanoscale properties can impact macroscale properties (such as color).
 ### Background knowledge required:
 1. The model of an atom
 2. Bonding
@@ -18,7 +18,8 @@ Lesson plans are in the `Lesson Plans` folder. The notebook is divided into two 
 While the second lesson -- Nanoparticle Color (the focus of the Jupyter Notebook) -- builds off of concepts in the first UV Beads lesson, it *can* be done independently of that lesson.
 
 ### For students:
-To run the activity in your browser, open up the Jupyter notebook using Google Collab via Binder...
+To run the activity in your browser, open up the Jupyter notebook using Binder...
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stetef/UV-Beads.git/HEAD)
 
 ### For tech savvy enthusiasts:
 You can clone this repo and run the notebook locally by typing
