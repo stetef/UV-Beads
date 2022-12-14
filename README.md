@@ -21,6 +21,8 @@ While the second lesson -- Nanoparticle Color (the focus of the Jupyter Notebook
 To run the activity in your browser, open up the Jupyter notebook using Binder...
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stetef/UV-Beads.git/HEAD)
 
+(This may take a while to load.)
+
 ### For tech savvy enthusiasts:
 You can clone this repo and run the notebook locally by typing
 
